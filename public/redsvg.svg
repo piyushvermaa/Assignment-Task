@@ -1,0 +1,27 @@
+<svg width="1000" height="422" viewBox="0 0 1000 422" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_2307)">
+<g clip-path="url(#clip1_2_2307)">
+<g clip-path="url(#clip2_2_2307)">
+<g opacity="0.2" filter="url(#filter0_f_2_2307)">
+<path d="M848.541 440.964L598.657 247.201L643.759 -52.901L786.212 -119.322L706.653 -565.838L444.509 -828.418L716.867 -1031.68L1009.2 55.781L1034.78 -347.887L1584.44 -1436.19L2010.19 -802.684L1367.16 -502.868L1245.23 256.001L848.541 440.964Z" fill="#FFCAD2"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2_2307" x="0.561462" y="-1880.14" width="2453.57" height="2765.05" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="221.974" result="effect1_foregroundBlur_2_2307"/>
+</filter>
+<clipPath id="clip0_2_2307">
+<rect width="1000" height="421.75" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2_2307">
+<rect width="1000" height="421.75" fill="white"/>
+</clipPath>
+<clipPath id="clip2_2_2307">
+<rect width="999.991" height="421.75" fill="white" transform="translate(0.00427628)"/>
+</clipPath>
+</defs>
+</svg>
